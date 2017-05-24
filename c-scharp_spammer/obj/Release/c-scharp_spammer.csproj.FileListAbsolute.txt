@@ -1,0 +1,7 @@
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\bin\Release\c-scharp_spammer.exe
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\bin\Release\c-scharp_spammer.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\obj\Release\c_scharp_spammer.Form1.resources
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\obj\Release\c_scharp_spammer.Properties.Resources.resources
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\obj\Release\c-scharp_spammer.csproj.GenerateResource.Cache
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\obj\Release\c-scharp_spammer.exe
+c:\users\ricky\documents\visual studio 2015\Projects\c-scharp_spammer\c-scharp_spammer\obj\Release\c-scharp_spammer.pdb
